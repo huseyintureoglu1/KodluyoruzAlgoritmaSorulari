@@ -1,0 +1,7 @@
+C:\Users\HT\source\repos\PatikaAlgoritmaSorulari\PatikaAlgoritmaSorulari\bin\Debug\PatikaAlgoritmaSorulari.exe.config
+C:\Users\HT\source\repos\PatikaAlgoritmaSorulari\PatikaAlgoritmaSorulari\bin\Debug\PatikaAlgoritmaSorulari.exe
+C:\Users\HT\source\repos\PatikaAlgoritmaSorulari\PatikaAlgoritmaSorulari\bin\Debug\PatikaAlgoritmaSorulari.pdb
+C:\Users\HT\source\repos\PatikaAlgoritmaSorulari\PatikaAlgoritmaSorulari\obj\Debug\PatikaAlgoritmaSorulari.csproj.AssemblyReference.cache
+C:\Users\HT\source\repos\PatikaAlgoritmaSorulari\PatikaAlgoritmaSorulari\obj\Debug\PatikaAlgoritmaSorulari.csproj.CoreCompileInputs.cache
+C:\Users\HT\source\repos\PatikaAlgoritmaSorulari\PatikaAlgoritmaSorulari\obj\Debug\PatikaAlgoritmaSorulari.exe
+C:\Users\HT\source\repos\PatikaAlgoritmaSorulari\PatikaAlgoritmaSorulari\obj\Debug\PatikaAlgoritmaSorulari.pdb
